@@ -15,22 +15,22 @@ Engage in a conversational interface to input questions and receive detailed ans
 # Installation:
 # Prerequisites:
 
-Python 3.8+
+    Python 3.8+
 
-Streamlit
+    Streamlit
 
-Groq API Key
-
+    Groq API Key
+  
 # Clone the Repository
 
-git clone https://github.com/yourusername/text-to-math-solver.git
-cd text-to-math-solver
+    git clone https://github.com/yourusername/text-to-math-solver.git
+    cd text-to-math-solver
 
 # Install Dependencies:
 
 Install the required Python packages:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 # Set Up Environment Variables:
 
@@ -40,7 +40,7 @@ Make sure to have your Groq API Key ready. You can input it directly in the side
 
 To run the Streamlit app, use the following command:
 
-streamlit run app.py
+    streamlit run app.py
 
 This will launch the application in your default web browser.
 
